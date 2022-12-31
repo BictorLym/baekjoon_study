@@ -1,6 +1,8 @@
 package week_test;
+
 import java.util.Scanner;
-public class riberty_25303 {
+
+public class samyoahri_25304 {
     public static void main(String[] args) {
         Scanner sc1 = new Scanner(System.in);
 
@@ -20,4 +22,3 @@ public class riberty_25303 {
         }
     }
 }
-
